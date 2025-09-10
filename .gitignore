@@ -1,0 +1,34 @@
+# Node / React / NestJS
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vite
+.vite/
+
+# Build output
+build/
+
+# Java / JavaFX
+*.class
+*.jar
+*.war
+*.ear
+target/
+out/
+
+# IntelliJ / JetBrains
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
